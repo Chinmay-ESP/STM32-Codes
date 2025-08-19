@@ -1,22 +1,21 @@
-# 🚀 STM32 HAL Practice Programs
+# LED Blink (STM32F407VET6)
 
-Welcome to my **STM32 HAL Hands-on Practice Repository** 🎉
-This repo is a progressive set of exercises designed to take you from **beginner** ➝ **industry-ready embedded engineer** using **STM32 HAL (Hardware Abstraction Layer)**.
+This is a simple LED blink program using STM32 HAL.
 
----
+## Description
+- Two LEDs connected to PA6 and PA7 will toggle every 500 ms.
 
-## 📌 Roadmap
+## How to run
+1. Open the project in VS Code.
+2. Build the code with your STM32 toolchain.
+3. Flash to STM32F407VET6 board.
+4. LEDs on PA6 and PA7 will blink.
 
-### 🔹 Level 1: Beginner (GPIO + Basics)
-
-* Blink LED with delay (polling)
-* Blink LED using `HAL_Delay()` with different speeds
-* Push button input → toggle LED
-* LED ON when button pressed, OFF when released
-* Multiple LEDs sequence (running lights)
-* Debounce push button using software
-* External interrupt (EXTI) → toggle LED
-
----
-
-
+## Code
+```c
+while (1)
+{
+    HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_6);
+    HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_7);
+    HAL_Delay(500);
+}
