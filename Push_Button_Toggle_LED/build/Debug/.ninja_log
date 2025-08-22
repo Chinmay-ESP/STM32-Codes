@@ -1,0 +1,24 @@
+# ninja log v5
+38	866	7772185981847437	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj	701b426c93ae76b0
+11	34	0	CMakeFiles/clean.additional	48b147cc62a1b2ea
+33	367	7772185977903781	CMakeFiles/Push_Button_Toggle_LED.dir/startup_stm32f407xx.s.obj	c0103c2ee99ce73f
+368	1169	7772185985784108	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	faaa5f7a8376c6ab
+34	47	0	clean	54ad0bad3b54c1f1
+23	417	7772185978104281	CMakeFiles/Push_Button_Toggle_LED.dir/Core/Src/sysmem.c.obj	c700c08fe7f93a74
+27	476	7772185978608594	CMakeFiles/Push_Button_Toggle_LED.dir/Core/Src/syscalls.c.obj	f7e9c253565f34d7
+17	775	7772185981544754	CMakeFiles/Push_Button_Toggle_LED.dir/Core/Src/stm32f4xx_it.c.obj	a3ed8e661113cc6b
+20	761	7772185981034370	CMakeFiles/Push_Button_Toggle_LED.dir/Core/Src/stm32f4xx_hal_msp.c.obj	f2355404c22c7be5
+11	766	7772185981454375	CMakeFiles/Push_Button_Toggle_LED.dir/Core/Src/main.c.obj	60c057668f0c7a55
+45	998	7772185984067619	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	2e32edd49f4d2ac0
+41	1002	7772185984067619	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	fea9cbea7a1d39e1
+776	1525	7772185989521119	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	b71e24abc61abab8
+417	1159	7772185985592619	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	a53dcc8918c5de91
+52	843	7772185982555015	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	6ea7c9da3ce00af1
+476	1409	7772185988222179	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	7621098254049923
+843	1608	7772185990331505	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	c4994718874d7608
+761	1601	7772185990251150	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	9b95f2a1d1c103f2
+766	1628	7772185990550795	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	598de320855d9a9
+866	1704	7772185991324871	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	5184bf7a262c6c1a
+998	1690	7772185991155310	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	a3f426cbbc660994
+1002	1656	7772185990752136	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	43e7182b71706dec
+1704	1915	7772185993195503	Push_Button_Toggle_LED.elf	737b99b9cba0d899
