@@ -1,0 +1,25 @@
+# ninja log v5
+2	277	7778091229908735	build.ninja	2bf9dcb12314cfbf
+878	1562	7777993586591411	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	3a5e9a1744aa72c2
+33	332	7777993574008259	CMakeFiles/7-Segment_Display.dir/startup_stm32f407xx.s.obj	bd11fc67b92937aa
+25	399	7777993574513142	CMakeFiles/7-Segment_Display.dir/Core/Src/sysmem.c.obj	8f1a2f2ad14e8231
+3	26	0	CMakeFiles/clean.additional	48b147cc62a1b2ea
+20	797	7777993578064249	CMakeFiles/7-Segment_Display.dir/Core/Src/stm32f4xx_hal_msp.c.obj	1ea8f6308674b8d0
+333	1210	7777993582441223	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	71f5592446ca288d
+27	39	0	clean	54ad0bad3b54c1f1
+47	977	7777993580616796	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	1649244bfa6e4ead
+29	470	7777993575524870	CMakeFiles/7-Segment_Display.dir/Core/Src/syscalls.c.obj	ce16d5c1026b7a54
+42	878	7777993579027934	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	f390103bacd2fdd7
+13	729	7777993577762360	CMakeFiles/7-Segment_Display.dir/Core/Src/main.c.obj	58554007d6ae7783
+52	918	7777993579884751	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	8cad8bdcbbf94381
+399	1186	7777993582722366	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	3df98700c21cdcba
+797	1462	7777993585501073	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	c7b54ec5e17650f7
+36	831	7777993578266321	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj	dfa5ad485fcb484a
+17	717	7777993577538599	CMakeFiles/7-Segment_Display.dir/Core/Src/stm32f4xx_it.c.obj	b7e231de07adc511
+470	1478	7777993585561586	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	990449e9d103db36
+831	1476	7777993585641814	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	995944e71040ae6d
+729	1531	7777993586285708	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	8bd6db301910ef32
+918	1526	7777993586200921	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	59c61f0617fa24b
+717	1511	7777993586064896	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	939fc3013e8327c
+977	1630	7777993587307105	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	78eeb233bbcf1822
+1630	1800	7777993588840211	7-Segment_Display.elf	852b3d98e792b258
