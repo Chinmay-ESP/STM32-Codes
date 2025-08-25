@@ -13,7 +13,7 @@ This repo is a progressive set of exercises designed to take you from **beginner
 * Blink LED using `HAL_Delay()` with different speeds
 * Push button input → toggle LED
 * LED ON when button pressed, OFF when released
-* Multiple LEDs sequence (running lights)
+* 7-Segment Interfacing with STM32
 * Debounce push button using software
 * External interrupt (EXTI) → toggle LED
 
