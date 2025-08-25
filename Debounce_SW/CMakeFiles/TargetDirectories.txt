@@ -1,0 +1,6 @@
+D:/STM_Projects/Debounce_SW/CMakeFiles/Debounce_SW.dir
+D:/STM_Projects/Debounce_SW/CMakeFiles/edit_cache.dir
+D:/STM_Projects/Debounce_SW/CMakeFiles/rebuild_cache.dir
+D:/STM_Projects/Debounce_SW/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+D:/STM_Projects/Debounce_SW/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+D:/STM_Projects/Debounce_SW/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
