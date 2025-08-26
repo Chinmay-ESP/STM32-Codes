@@ -1,0 +1,24 @@
+# ninja log v5
+857	1689	7778204280720797	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	c69c529ec75bcde7
+402	1288	7778204276591845	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	86e95cd9885dff48
+79	1076	7778204274228170	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	993531c32c56ff40
+39	861	7778204272143756	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Core/Src/system_stm32f4xx.c.obj	d376bb996636ba91
+12	857	7778204271325935	CMakeFiles/EXTI_Toggle-LED.dir/Core/Src/main.c.obj	4382348f99f2d1e6
+2	26	0	CMakeFiles/clean.additional	48b147cc62a1b2ea
+26	44	0	clean	54ad0bad3b54c1f1
+291	1403	7778204277808581	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	58ce57761e1e86b2
+25	402	7778204267476237	CMakeFiles/EXTI_Toggle-LED.dir/Core/Src/sysmem.c.obj	322aa9fe0bd6f329
+22	794	7778204270966891	CMakeFiles/EXTI_Toggle-LED.dir/Core/Src/stm32f4xx_hal_msp.c.obj	9635c4000f6824bb
+35	291	7778204266678370	CMakeFiles/EXTI_Toggle-LED.dir/startup_stm32f407xx.s.obj	d59ae86a568a1953
+975	1696	7778204280900316	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	15cb3a523ea6947d
+18	674	7778204270288708	CMakeFiles/EXTI_Toggle-LED.dir/Core/Src/stm32f4xx_it.c.obj	62c2db95f96eaee6
+50	1089	7778204274706909	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	a25fd8c102d52593
+43	975	7778204273151055	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	12baa3a0c8646df7
+1089	1796	7778204281927566	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	1ee1301cbd8f96d0
+29	519	7778204268812662	CMakeFiles/EXTI_Toggle-LED.dir/Core/Src/syscalls.c.obj	db80d4e83d13698d
+674	1604	7778204279813217	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	bb3ccb9d25a90c79
+519	1458	7778204278297274	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	d5481fe0e0dc4d87
+861	1680	7778204280611093	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	74f21128f11d749c
+794	1674	7778204280561230	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	c3a031eca7ca36ee
+1076	1739	7778204281339150	cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	5e78f5a203a54a6d
+1796	1974	7778204283553205	EXTI_Toggle-LED.elf	1dc93b52ca19f8d1
